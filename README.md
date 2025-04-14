@@ -29,8 +29,11 @@ From the start, I wanted to convey lightness — not just in fashion but in the 
 ### 💻 Homepage
 ![Hero Section](./screenshots/Hero_Section.png)
 
-### 🛍️ Product Essentials
-![Essentials](./screenshots/velae_essentials.png)
+### 🛍️ Section-2
+![Section-2](./screenshots/Section2.png)
+
+### 🛍️ Section-3
+![Section-2](./screenshots/Section3.png)
 
 ### 📱 Responsive Snapshots
 ![Responsive](./screenshots/velae_responsive.png)
